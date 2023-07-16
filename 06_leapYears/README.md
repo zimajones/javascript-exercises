@@ -14,3 +14,14 @@ leapYears(1985) // is not a leap year: returns false
 
 ## Hints
 - use an `if` statement and `&&` to make sure all the conditions are met properly
+
+
+
+
+if numbers divisible by 4 but not divisible by 100 but divisible by 400 {
+    return true 
+}
+
+else {
+    return false
+}
